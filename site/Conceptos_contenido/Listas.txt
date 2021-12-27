@@ -1,0 +1,8 @@
+Listas= permiten agrupar contenido relacionado
+		LISTAS DESORDENADAS
+<ul>Crea la lista desordenada
+	<li>son los elementos dentro de la lista <ul>
+		LISTAS ORDENADAS
+<ol>Crea la lista ordenada
+	<li>son los elementos dentro de la lista <ol>
+

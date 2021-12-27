@@ -1,0 +1,15 @@
+			CREAR ENLACES INTERNOS PARA LA PAGINA HTML
+href referencia de hipertexto 
+Ejemplo1:  <a href="same-directory.html" title="same dir link">
+<title> es usado para los lectores de pantalla, pero este no hace un salto de linea  
+
+Ejemplo2 a href="same-directory.html" title="same dir link">
+      <div> DIV Linking to a file in the same directory</div>
+    </a> = El div permite que si haga salto de linea
+	
+			CREAR ENLACES INTERNOS PARA LA PAGINA HTML
+Atributo target dentro de un enlace externo  
+target="_blank" = obliga al navegador a abrir esta pagina en una nueva pestaña o en una nueva ventana
+
+			IDENTIFICADOR DE FRAGMENTO MISMA PAGINA
+<li><a href="#section1">#section1</a></li> = te envia a la seccion de la misma pagina

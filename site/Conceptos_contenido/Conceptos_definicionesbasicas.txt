@@ -1,0 +1,45 @@
+
+HTML: Significa Hyper Text Markup Language
+	Hypertext: Es un texto que contiene enlaces a otros textos(Un documento apunta a otro documento)- Hypermedia es una extencion de Hypertext
+	Markup: Significa marcar o anotar
+	Language: Esto significa que tiene su propia sintaxis
+	
+Tecnologias del curso 
+	HTML es la estructura del programa o pagina
+	CSS define el color y estilo de los componentes que conforman la pagina 
+	JavaScript provee el compotamiento y la funcionalidad a la pagina
+
+Estructura de HTML
+	<head> = Contiene elementos que describen el contenido proncipal de la pagina
+	<body> = Es la raiz de todo el contenido que es visible para el usuario
+
+Anatomia de un tag HTML(El nucleo de HTML es la etiqueta de HTML)
+Los tags poseen una apertura que consiste en la escrituras de los tag (<p>)
+Los tags poseen una finalizacion que consiste en el cierre de dicho taf (</p>)
+ 
+Estructura de un tag
+	<p><>Etiqueta | p = parrafo
+
+Tags de uso
+	<p> = Parrafo
+	<br> = Salto de linea (No poseen etiqueta de cierre)
+	<hr> Regla horizontal (No poseen etiqueta de cierre)
+	<html>
+	<meta> 
+	<head>
+	<title>
+	<body>
+	<div> = Division. Es un elemento a nivel de bloque mas generico
+	<span> = Es un elemento super generico en linea
+
+//Cada tag posee atributos
+Atributos de un tag: Consiste en un par de valores de nombre que es una especie de metadatos sobre el mismo elemento al que se esta aplicando
+	Los atributos solo se presentan en la apertura de un tag y el argumento del mismo se presenta entre "" Que indica
+
+<!doctype html> = Indica la declaracion del tippo de documento 
+
+Block-level Elements = se procesam ára comenzar en la nueva linea de forma predeterminada
+
+
+
+	
