@@ -1,0 +1,15 @@
+Los encabezados se delegan segun su impórtancia, siendo
+<h1> La mas importante(ESTOS NO SE USAN PARA ESTILOS, SOLO PARA TRANSMITIR 
+LA ESTRUCTURA DE LA PAGINA HTML)
+<h2>
+<h3>
+<h4>
+<h5>
+<h6>
+<header>= La etiqueta encabezado contiene la informacion del encabezado de la pagina
+<nav> Significa algun contenido que se utiliza para la navgacion dentro del sitio web
+<section> = Consiste en la seccion donde se encuentran elementos del articulo
+<article> =   
+<aside> = Es un elemento que comunica que hay algo dentro del elemento que esta relacionado con el contenido principal de la pagina
+
+<footer>
