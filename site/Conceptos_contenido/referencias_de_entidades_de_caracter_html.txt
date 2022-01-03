@@ -1,8 +1,0 @@
-Sirve para que HTML diferencie los caracteres html de los caracteres de contenido
-< = &lt;
-> = &gt;
-& = &amp;
-(C)c de copyright = &copy Muestra el signo de copyright 
-&nbsp = no rompe espacio entre palabras y tambien agrega espacios entre lineas
-&quot = agrega comillas a un texto  
- 
